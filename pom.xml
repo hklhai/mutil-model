@@ -10,8 +10,10 @@
         <module>user-dao</module>
         <module>user-service</module>
         <module>user-controller</module>
+        <module>user-common</module>
+        <module>user-web</module>
     </modules>
-    <name>user-all Maven Webapp</name>
+    <name>user-all</name>
     <url>http://maven.apache.org</url>
 
     <properties>
